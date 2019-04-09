@@ -1,5 +1,9 @@
 package Main;
 
+/**
+ * Created by matlapeng on 2018/04/14.
+ */
+
 import java.util.Arrays;
 import java.util.stream.IntStream;
 class BlackJack {
